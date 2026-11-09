@@ -1,16 +1,66 @@
-## Hi there 👋
+# Full-Stack Web Developer
 
-<!--
-**ysoam290-commits/ysoam290-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!  Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I'm a passionate **Full-Stack Web Developer** who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies, solving problems, and turning ideas into practical digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+-  Interested in Full-Stack Web Development.
+-  Continuously learning and improving my programming skills.
+-  Enjoy creating clean and responsive user interfaces.
+-  Interested in developing powerful backend systems and RESTful APIs.
+-  Working toward becoming a professional Full-Stack Developer.
+
+## Technical Skills
+
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Vue.js
+- Tailwind CSS
+- Bootstrap
+
+**Backend Development**
+- Java
+- Spring Boot
+- RESTful API
+
+**Database**
+- PostgreSQL
+- MySQL
+
+**Tools**
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+- Figma
+
+##  Currently Learning
+
+- Advanced React.js
+- Spring Boot Backend Development
+- RESTful API Integration
+- Database Design
+- Authentication & Authorization
+- Full-Stack Application Development
+
+##  My Goals
+
+- Build real-world Full-Stack web applications.
+- Improve my problem-solving skills.
+- Write clean, maintainable, and reusable code.
+- Collaborate with developers from around the world.
+- Become a professional Full-Stack Web Developer.
+
+##  Connect With Me
+
+- Email: ysoam290@gmail.com
+
+
+⭐ Thanks for visiting my GitHub profile!
+
+**Keep Learning. Keep Building. Keep Growing.** 
