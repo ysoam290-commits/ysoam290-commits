@@ -1,6 +1,10 @@
-# Full-Stack Web Developer
+<h1 align="center">
+  Hi, I'm a Full-Stack Web Developer
+</h1>
 
-Hi!  Welcome to my GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!" />
+</p>
 
 I'm a passionate **Full-Stack Web Developer** who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies, solving problems, and turning ideas into practical digital solutions.
 
